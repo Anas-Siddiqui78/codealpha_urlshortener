@@ -1,38 +1,47 @@
-🔗✨ Simple URL Shortener
-A lightweight and fast URL Shortener that converts long URLs into short, shareable links.
-Built using Flask + SQLite + Bootstrap UI 🚀.
+# 🔗✨ Simple URL Shortener
 
-🌟 Overview ✨
-This project allows you to create a short and simple link from any long URL.
-It stores your URLs in a database and offers instant redirect functionality.
+A lightweight and fast URL Shortener that converts long URLs into short, shareable links.  
+Built using **Flask + SQLite + Bootstrap UI** 🚀.
+
+---
+
+## 🌟 Overview ✨
+This project allows you to create a short and simple link from any long URL.  
+It stores your URLs in a database and offers instant redirect functionality.  
 Perfect for beginners learning backend + database + frontend integration 🎯.
 
-🛠️ Features 🔧✨
-🔗 Shorten any long URL instantly
-💾 Stores URLs in SQLite database
-📁 Displays full list of stored URLs
-🎯 Unique 6-character short code
-📱 Simple and responsive UI
-📋 One-click Copy URL button
-🔁 Auto-redirect from short URL → long URL
+---
 
-🖥️ Technologies Used 💻🛠️
-🐍 Python (Flask) – backend
-🗄️ SQLite – lightweight database
-🎨 Bootstrap 5 – frontend UI
-🔄 Jinja2 Template
-📡 API Endpoint Support
+## 🛠️ Features 🔧✨
+- 🔗 Shorten any long URL instantly  
+- 💾 Stores URLs in SQLite database  
+- 📁 Displays full list of stored URLs  
+- 🎯 Unique 6-character short code  
+- 📱 Simple and responsive UI  
+- 📋 One-click Copy URL button  
+- 🔁 Auto-redirect from short URL → long URL  
 
-📥 Installation 📦⚙️
-🧪 Clone this repository:
+---
+
+## 🖥️ Technologies Used 💻🛠️
+- 🐍 Python (Flask) – backend  
+- 🗄️ SQLite – lightweight database  
+- 🎨 Bootstrap 5 – frontend UI  
+- 🔄 Jinja2 Template  
+- 📡 API Endpoint Support  
+
+---
+
+## 📥 Installation 📦⚙️
+
+### 🧪 Clone this repository:
+```bash
 git clone https://github.com/Anas-Siddiqui78/codealpha_urlshortener.git
-
 📦 Install dependencies:
 
 pip install flask
 
 ▶️ Run the server:
-
 python app.py
 
 🌐 Open in browser:
@@ -40,20 +49,21 @@ python app.py
 http://127.0.0.1:5000/
 
 📸 Screenshots 🖼️✨
-📍 Screenshot 1 — Original Long URL Page:
-[Flipkart Dell Monitor (Before Shortening)](images/flipkart_dell_monitor_before.png)
+📍 Screenshot 1 — Original Long URL Page
 
 
-📍 Screenshot 2 — Shortened URL Output Page:
-[Shortened URL Result](images/url_shortened_result.png)
+📍 Screenshot 2 — Shortened URL Output Page
 
-👉 You should create an images folder and put these two files inside.
+
+👉 Make sure you have an images folder with these two files inside.
 
 🔌 API Endpoints 🔍⚡
 🔹 Shorten URL (POST)
-
-
+bash
+Copy code
+/shorten
 🧩 Project Structure 📂
+Copy code
 
 project-folder/
 │
@@ -64,16 +74,27 @@ project-folder/
 │     └── url_shortened_result.png
 └── README.md
 
-
 ⚠️ Limitations ⚡
 🌑 Needs proper URL format (https://...)
+
 🗄️ SQLite is local only
-🎨 Basic UI (can be upgraded more)
+
+🎨 Basic UI (can be improved further)
 
 📜 License ⚖️
 MIT License — Free to use, modify, distribute.
 
 🙌 Acknowledgments
 🐍 Flask Community
+
 📘 Bootstrap Docs
+
 🧠 Python Developers Community
+
+
+
+
+
+
+
+
