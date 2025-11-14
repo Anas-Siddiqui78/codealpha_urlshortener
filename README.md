@@ -48,11 +48,9 @@ python app.py
 
 http://127.0.0.1:5000/
 
-📸 Screenshots 🖼️✨
-📍 Screenshot 1 — Original Long URL Page
+![Original Long URL Page](https://raw.githubusercontent.com/Anas-Siddiqui78/codealpha_task2/main/images/flipkart_dell_monitor_before.png)
 
-
-📍 Screenshot 2 — Shortened URL Output Page
+![Shortened URL Result](https://raw.githubusercontent.com/Anas-Siddiqui78/codealpha_task2/main/images/url_shortened_result.png)
 
 
 👉 Make sure you have an images folder with these two files inside.
