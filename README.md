@@ -25,7 +25,7 @@ Perfect for beginners learning backend + database + frontend integration 🎯.
 
 📥 Installation 📦⚙️
 🧪 Clone this repository:
-git clone https://github.com/Anas-Siddiqui78/url-shortener.git
+git clone https://github.com/Anas-Siddiqui78/codealpha_urlshortener.git
 
 📦 Install dependencies:
 
